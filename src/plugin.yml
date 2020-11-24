@@ -1,0 +1,8 @@
+main: com.light.spot.Spot
+name: Spot
+version: 1.0
+depend:
+  - ProtocolLib
+commands:
+  spot:
+    description: toggle spot
